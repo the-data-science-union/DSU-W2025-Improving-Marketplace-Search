@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+env/
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Configuration files for Jupyter
+*.json
+*.pyc
+
+# Data and cache files
+*.log
+*.csv
+*.tsv
+*.sqlite
+*.db
+*.h5
+*.zip
+*.tar
+*.tar.gz
+*.pickle
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+
+# Output files
+*.out
+*.pdf
+*.png
+*.jpg
+*.jpeg
