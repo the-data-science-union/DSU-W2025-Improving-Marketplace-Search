@@ -26,6 +26,7 @@ venv/
 *.tar
 *.tar.gz
 *.pickle
+*.jsonl
 
 # Python egg files
 *.egg
